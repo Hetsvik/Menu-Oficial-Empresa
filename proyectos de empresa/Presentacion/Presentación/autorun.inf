@@ -1,0 +1,9 @@
+[autorun]
+open = autorun.exe
+icon = sfld.ico
+
+[alligator]
+ask=1
+prompt=¿Desea Iniciar la Presentacion?
+title=Arquitectura & Servicios Generales SAC
+fullscreen=1
